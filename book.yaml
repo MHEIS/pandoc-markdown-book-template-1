@@ -1,0 +1,9 @@
+input-files:
+  - content/einleitung.md
+  - content/recipes/essen/index.md
+  - content/recipes/trinken/index.md
+output-file: build/book.epub
+metadata-file: metadata.yaml
+toc: true
+epub-fonts:
+  - fonts/*.ttf

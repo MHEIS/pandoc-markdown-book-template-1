@@ -1,13 +1,13 @@
 ---
 title:
 - type: main
-  text: Pay Off
+  text: Kochbuch
 creator:
 - role: author
   text: Dan Ariely
 description: The Hidden Logic that Shapes our Motivation
 rights: Commercial
-language: en-US
-stylesheet: epub.css
-cover-image: cover.jpg
+language: de-DE
+stylesheet: assets/css/epub.css
+cover-image: assets/img/cover.jpg
 ...
